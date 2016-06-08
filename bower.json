@@ -1,0 +1,15 @@
+{
+  "name": "todo-ember-redux",
+  "dependencies": {
+    "ember": "^2.1.0",
+    "ember-cli-shims": "~0.1.1",
+    "ember-cli-test-loader": "ember-cli-test-loader#0.2.0",
+    "ember-load-initializers": "ember-cli/ember-load-initializers#0.1.6",
+    "ember-qunit": "0.4.10",
+    "ember-qunit-notifications": "0.0.7",
+    "ember-resolver": "~0.1.18",
+    "jquery": "^1.11.3",
+    "loader.js": "ember-cli/loader.js#3.2.1",
+    "qunit": "~1.18.0"
+  }
+}
