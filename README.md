@@ -2,6 +2,10 @@
 
 A TodoMVC implementation using [ember.js](http://emberjs.com), [ember-redux](http://ember-redux.com), and [ember-redux-helpers](https://github.com/jkusa/ember-redux-helpers)
 
+## Demo
+
+http://jkusa.github.io/ember-redux-todomvc/
+
 ## Prerequisites
 
 You will need the following things properly installed on your computer.
