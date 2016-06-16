@@ -1,5 +1,7 @@
 # ember-redux-todomvc
 
+[![Build Status](https://travis-ci.org/jkusa/ember-redux-todomvc.svg?branch=master)](https://travis-ci.org/jkusa/ember-redux-todomvc)
+
 A TodoMVC implementation using [ember.js](http://emberjs.com), [ember-redux](http://ember-redux.com), and [ember-redux-helpers](https://github.com/jkusa/ember-redux-helpers)
 
 ## Demo
